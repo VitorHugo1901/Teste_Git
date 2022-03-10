@@ -1,1 +1,3 @@
-const gg = 'gg'
+const gg = 'gg' 
+var seila = "sei lá"
+"sss"
